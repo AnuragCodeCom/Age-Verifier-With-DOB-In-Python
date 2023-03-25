@@ -47,7 +47,7 @@ class age_verify():
                     return ("Sorry User is Less Than Specified Age")
             else:
                 time.sleep(1)
-                return ("Error Code 801;Invalid DOB Month")
+                return ("Error Code 801 ;Invalid DOB Month")
         else:
             time.sleep(1)
             return ("Error Code 800 ; Wrong DOB")
