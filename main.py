@@ -20,6 +20,7 @@ from age_verifier import age_verify
 # Replace Here with The Age year You Want To Verify The DOB With
 # IMPORTANT: This Module Mainly Uses DOB year To Verify User's Age So Its Reccommended To Put Year Of Checking To be 1 Less Than Desired
 # But Still it Check the Month And Date Wheather its Correct
+
 year_check = 18
 #**********************************************
 
@@ -31,6 +32,8 @@ dob = input("Enter Your DOB [YYYY-MM-DD]: ")
 #-----------------Creating A User To Use The Module On-----------------------
 user = age_verify()
 #------------Running The Module On The Created User And Taking its Output In A Variable--------------
+
+#----USAGE----
 output = user.verify_age(year_check, dob)
 
 #---------------Checking The Output------------
