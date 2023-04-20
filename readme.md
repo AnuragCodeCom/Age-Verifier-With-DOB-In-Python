@@ -7,7 +7,7 @@
    Discord: https://anuragcode.com/discord<br>
 <br>
 ----------------------------INFO------------------------------------------/<br>
-/<br>
+<br>
  No External Modules Are Required<br>
 
 <br>
